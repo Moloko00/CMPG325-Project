@@ -31,7 +31,7 @@ Classic bus-like network simulated using a Hub (shared medium). Four PCs connect
 
 ## Files / Evidence
 - `Bus_Topology.pkt`
-- `screenshots/bus/topology.png`
-- `screenshots/bus/ip_config.png`
-- `screenshots/bus/ping_tests.png`
+- `screenshots topology.png`
+- `screenshots ip_config.png`
+- `screenshots ping_tests.png`
 
